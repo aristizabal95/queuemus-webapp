@@ -53,6 +53,14 @@
     &.large-width{
         width: 220px;
     }
+		&.spotify{
+			background: #1DB954;
+			&:hover{
+	        border: 1px solid #1DB954;
+	        color: #1DB954 !important;
+	        background: transparent ;
+	    }
+		}
 }
 .boxed-btn4 {
         /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */

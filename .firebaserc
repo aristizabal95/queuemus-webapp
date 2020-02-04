@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "queuemus-app",
+    "development": "queuemus-app"
+  }
+}
